@@ -16,7 +16,7 @@ const quizData = [
     correct: "a",
   },
   {
-    question: "What is Goofy's facvourite subject?",
+    question: "What is Goofy's favourite subject?",
     a: "Maths",
     b: "She hates all subjects",
     c: "Chemistry",
