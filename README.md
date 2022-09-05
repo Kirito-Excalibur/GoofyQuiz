@@ -1,2 +1,2 @@
 # GoofyQuiz
-Asking Goofy some goof-like questions
+Do you know my goofy like I do? Let's Check It Out!
